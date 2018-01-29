@@ -1,0 +1,91 @@
+/****** Main Styling ******/
+
+body {
+  background: #D1AA7F;
+	margin: 0;
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-weight: 300;
+  font-size: 16px;
+  line-height: 1.42857143;
+  color: #3B7E87;
+	text-align: left;
+}
+
+.container {
+  width: 950px;
+	padding: 0;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+	margin-top: 40px;
+ 	font-size: 20px;
+	text-shadow: 1px 1px 1px rgba(0,0,0,.3);
+	box-sizing: border-box;
+}
+
+.blockquote{
+  font-weight: 300;
+  line-height: 1.42em;
+  color:#D1AA7F;
+  background-color:#3B7E87;
+  margin: 10px; 
+  padding:10px;
+}
+
+.div {
+    display: block;
+}
+
+.footer {
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  color:#D1AA7F;
+  background-color: #3B7E87;
+  text-align: center;
+}
+
+code{
+  display: block;
+  background-color: #455869;
+  color: #F8BC86;
+  font-family: Courier, 'New Courier', monospace;
+  font-size: 14px;
+  word-wrap: break-word;
+  margin: 10px; 
+  padding:10px;
+}
+
+ol {
+	list-style-position: inside;
+}
+ul {
+	list-style-type: none;
+  text-align: left;
+}
+
+a:link {
+    color: Bisque;
+}
+
+a:visited {
+    color: Bisque;
+}
+
+a:hover {
+    color: CornflowerBlue;
+}
+
+a:active {
+    color: CornflowerBlue;
+}
+
+
+/****** Logo Div Styling ******/
+
+img {
+	margin: 20px auto 0 auto;
+	display: block;
+}
