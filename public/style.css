@@ -1,13 +1,13 @@
 /****** Main Styling ******/
 
 body {
-  background: #FFFFFF;
+  background: #F2F2F2;
 	margin: 0;
 	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
 	font-weight: 300;
   font-size: 16px;
   line-height: 1.42857143;
-  color: #011627;
+  color: #595959;
 	text-align: left;
 }
 
@@ -27,8 +27,8 @@ body {
 .blockquote{
   font-weight: 300;
   line-height: 1.42em;
-  color:#D1AA7F;
-  background-color:#3B7E87;
+  color:#595959;
+  background-color:#CCCCCC;
   margin: 10px;
   padding:10px;
 }
@@ -42,15 +42,15 @@ body {
   bottom: 0;
   left: 0;
   padding: 1rem;
-  color:#D1AA7F;
-  background-color: #3B7E87;
+  color:#F2F2F2;
+  background-color: #7F7F7F;
   text-align: center;
 }
 
 code{
   display: block;
-  background-color: #455869;
-  color: #F8BC86;
+  background-color: #595959;
+  color: #F2F2F2;
   font-family: Courier, 'New Courier', monospace;
   font-size: 14px;
   word-wrap: break-word;
