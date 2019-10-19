@@ -3,7 +3,7 @@
   "dependencies": {
     "express": "^4.16.2",
     "google-images": "^2.1.0",
-    "mongodb": "^2.2.33"
+    "mongodb": "^3.3.3"
   },
   "main": "server.js",
   "scripts": {

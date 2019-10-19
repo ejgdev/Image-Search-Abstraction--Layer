@@ -1,13 +1,13 @@
 /****** Main Styling ******/
 
 body {
-  background: #D1AA7F;
+  background: #FFFFFF;
 	margin: 0;
 	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
 	font-weight: 300;
   font-size: 16px;
   line-height: 1.42857143;
-  color: #3B7E87;
+  color: #011627;
 	text-align: left;
 }
 
@@ -29,7 +29,7 @@ body {
   line-height: 1.42em;
   color:#D1AA7F;
   background-color:#3B7E87;
-  margin: 10px; 
+  margin: 10px;
   padding:10px;
 }
 
@@ -54,7 +54,7 @@ code{
   font-family: Courier, 'New Courier', monospace;
   font-size: 14px;
   word-wrap: break-word;
-  margin: 10px; 
+  margin: 10px;
   padding:10px;
 }
 

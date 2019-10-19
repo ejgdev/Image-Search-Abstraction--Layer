@@ -1,9 +1,10 @@
 # Image Search Abstraction Layer
+This is a challenge from https://freecodecamp.org
 
-## Objective: 
+## Objective:
 Objective: Build a full stack JavaScript app that allows you to search for images like  
 **[this page](https://cryptic-ridge-9197.herokuapp.com/api/imagesearch/lolcats%20funny?offset=10)**
-and browse recent search queries like 
+and browse recent search queries like
 **[this page](https://cryptic-ridge-9197.herokuapp.com/api/latest/imagesearch/)**.
 Then deploy it to Glitch.
 
@@ -11,7 +12,7 @@ Note that for each project, you should create a new GitHub repository and a new 
 
 Here are the specific user stories you should implement for this project:
 
-## User Story: 
+## User Story:
 >1. I can get the image URLs, alt text and page urls for a set of images relating to a given search string.
 
 >2. I can paginate through the responses by adding a ?offset=2 parameter to the URL.
@@ -20,9 +21,11 @@ Here are the specific user stories you should implement for this project:
 
 
 ### Links
-[https://imported-buckaroo.glitch.me/](https://imported-buckaroo.glitch.me/)
+[App Demo Home page](https://imported-buckaroo.glitch.me/)
 
-[https://github.com/edlobox/Image-Search-Abstraction--Layer](https://github.com/edlobox/Image-Search-Abstraction--Layer)
+[App Demo Testing](https://imported-buckaroo.glitch.me/api/imgSearch/cats)
+
+[GitHub](https://github.com/ejgdev/Image-Search-Abstraction--Layer)
 
 
 ### Note
